@@ -1,6 +1,6 @@
 {
-  "name": "genji",
-  "description": "A Next.js Web3 app template",
+  "name": "nest-json-ui",
+  "description": "A UI to interact with a Nest.js API in combination with a JSON-based database.",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
