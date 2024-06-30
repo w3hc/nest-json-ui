@@ -25,6 +25,8 @@ Add your own keys in the `.env` file (you can get it in your [Wallet Connect das
 pnpm dev
 ```
 
+If you're testing the API at the same time, replace `https://nest-json.jcloud-ver-jpe.ik-server.com` with `http://localhost:3000`.
+
 ## Versions
 
 - pnpm v8.7.5
